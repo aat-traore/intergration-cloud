@@ -1,0 +1,28 @@
+.neader{
+    position: absolute;
+}
+.gr
+ {
+    background-color: black; 
+    text-align:start;
+
+ }
+ .gr ul{
+    display: inline-flex;
+}
+ 
+.nav{
+    text-decoration: none;
+    font-size:25px;
+    margin-right: 20px;
+    margin-left: 10px;
+   
+
+}
+.pt{
+    margin-top: 15px;
+    float: right;;
+    font-size:20px;
+    margin-right: 20px;
+    margin-left: 10px;
+}   
